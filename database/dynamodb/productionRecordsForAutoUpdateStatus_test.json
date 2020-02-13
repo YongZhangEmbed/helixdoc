@@ -1,0 +1,671 @@
+{
+    "toolkit-updateStatus-dev": [
+	{"PutRequest": {
+        "Item":{
+            "applications": {
+                "L": [
+                    {
+                        "M": {
+                            "currentVer": {
+                                "S": "7.23.8.78"
+                            },
+                            "lastVerified": {
+                                "S": "2019-07-19T08:42:19.0000000+01:00"
+                            },
+                            "type": {
+                                "S": "CentralCardService"
+                            },
+                            "newVer": {
+                                "S": "2018.2.0.6204"
+                            },
+                            "status": {
+                                "S": "OUT OF DATE"
+                            },
+                            "name": {
+                                "S": "CentralCardService"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "currentVer": {
+                                "S": "0.0.0.0"
+                            },
+                            "lastVerified": {
+                                "S": "2019-07-19T08:42:19.0000000+01:00"
+                            },
+                            "type": {
+                                "S": "Database Wizard"
+                            },
+                            "newVer": {
+                                "S": "2018.2.0.6204"
+                            },
+                            "status": {
+                                "S": "OUT OF DATE"
+                            },
+                            "name": {
+                                "S": "Database Wizard"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "currentVer": {
+                                "S": "7.23.8.78"
+                            },
+                            "lastVerified": {
+                                "S": "2019-07-19T08:42:19.0000000+01:00"
+                            },
+                            "type": {
+                                "S": "GeneralService"
+                            },
+                            "newVer": {
+                                "S": "2018.2.0.6204"
+                            },
+                            "status": {
+                                "S": "OUT OF DATE"
+                            },
+                            "name": {
+                                "S": "GeneralService"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "currentVer": {
+                                "S": "7.23.8.78"
+                            },
+                            "lastVerified": {
+                                "S": "2019-07-19T08:42:19.0000000+01:00"
+                            },
+                            "type": {
+                                "S": "Manager"
+                            },
+                            "newVer": {
+                                "S": "2018.2.0.6204"
+                            },
+                            "status": {
+                                "S": "OUT OF DATE"
+                            },
+                            "name": {
+                                "S": "SERVER"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "currentVer": {
+                                "S": "0.0.0.0"
+                            },
+                            "lastVerified": {
+                                "S": "2019-07-19T08:42:19.0000000+01:00"
+                            },
+                            "type": {
+                                "S": "Reports"
+                            },
+                            "newVer": {
+                                "S": "2018.2.0.6204"
+                            },
+                            "status": {
+                                "S": "NOT APPLICABLE"
+                            },
+                            "name": {
+                                "S": "Reports"
+                            }
+                        }
+                    }
+                ]
+            },
+            "smartTouchStatus": {
+                "S": "UP TO DATE"
+            },
+            "currentVer": {
+                "S": "Multiple versions detected"
+            },
+            "desktopStatus": {
+                "S": "OUT OF DATE"
+            },
+            "operator": {
+                "S": "328"
+            },
+            "newVer": {
+                "S": "2018.2.0.6204"
+            },
+            "channel": {
+                "S": "Beta"
+            },
+            "locationName": {
+                "S": "Head Office"
+            },
+            "status": {
+                "S": "OUT OF DATE"
+            },
+            "location": {
+                "S": "328101"
+            }
+        }
+		}
+		},
+		{
+		"PutRequest": {
+        "Item":{
+            "applications": {
+                "L": [
+                    {
+                        "M": {
+                            "currentVer": {
+                                "S": "0.0.0.0"
+                            },
+                            "lastVerified": {
+                                "S": "2019-07-19T02:33:39.0000000-05:00"
+                            },
+                            "type": {
+                                "S": "CardBalanceExpiryTool"
+                            },
+                            "newVer": {
+                                "S": "2018.2.5.7321"
+                            },
+                            "status": {
+                                "S": "NOT APPLICABLE"
+                            },
+                            "name": {
+                                "S": "CardBalanceExpiryTool"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "currentVer": {
+                                "S": "0.0.0.0"
+                            },
+                            "lastVerified": {
+                                "S": "2019-07-19T02:33:39.0000000-05:00"
+                            },
+                            "type": {
+                                "S": "CenterEdgeGateway"
+                            },
+                            "newVer": {
+                                "S": "2018.2.5.7321"
+                            },
+                            "status": {
+                                "S": "NOT APPLICABLE"
+                            },
+                            "name": {
+                                "S": "CenterEdgeGateway"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "currentVer": {
+                                "S": "0.0.0.0"
+                            },
+                            "lastVerified": {
+                                "S": "2019-07-19T02:33:39.0000000-05:00"
+                            },
+                            "type": {
+                                "S": "Database Wizard"
+                            },
+                            "newVer": {
+                                "S": "2018.2.5.7321"
+                            },
+                            "status": {
+                                "S": "OUT OF DATE"
+                            },
+                            "name": {
+                                "S": "Database Wizard"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "currentVer": {
+                                "S": "0.0.0.0"
+                            },
+                            "lastVerified": {
+                                "S": "2019-07-19T02:33:39.0000000-05:00"
+                            },
+                            "type": {
+                                "S": "EmbedAPI"
+                            },
+                            "newVer": {
+                                "S": "2018.2.5.7321"
+                            },
+                            "status": {
+                                "S": "NOT APPLICABLE"
+                            },
+                            "name": {
+                                "S": "EmbedAPI"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "currentVer": {
+                                "S": "0.0.0.0"
+                            },
+                            "lastVerified": {
+                                "S": "2019-07-19T02:33:39.0000000-05:00"
+                            },
+                            "type": {
+                                "S": "EventScheduler"
+                            },
+                            "newVer": {
+                                "S": "2018.2.5.7321"
+                            },
+                            "status": {
+                                "S": "NOT APPLICABLE"
+                            },
+                            "name": {
+                                "S": "EventScheduler"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "currentVer": {
+                                "S": "0.0.0.0"
+                            },
+                            "lastVerified": {
+                                "S": "2019-07-19T02:33:39.0000000-05:00"
+                            },
+                            "type": {
+                                "S": "GameDrop"
+                            },
+                            "newVer": {
+                                "S": "2018.2.5.7321"
+                            },
+                            "status": {
+                                "S": "NOT APPLICABLE"
+                            },
+                            "name": {
+                                "S": "GameDrop"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "currentVer": {
+                                "S": "2018.2.1.6509"
+                            },
+                            "lastVerified": {
+                                "S": "2019-07-19T02:33:39.0000000-05:00"
+                            },
+                            "type": {
+                                "S": "GameService"
+                            },
+                            "newVer": {
+                                "S": "2018.2.5.7321"
+                            },
+                            "status": {
+                                "S": "OUT OF DATE"
+                            },
+                            "name": {
+                                "S": "A1_E11"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "currentVer": {
+                                "S": "2018.2.1.6509"
+                            },
+                            "lastVerified": {
+                                "S": "2019-07-19T02:33:39.0000000-05:00"
+                            },
+                            "type": {
+                                "S": "GameService"
+                            },
+                            "newVer": {
+                                "S": "2018.2.5.7321"
+                            },
+                            "status": {
+                                "S": "OUT OF DATE"
+                            },
+                            "name": {
+                                "S": "B1_E12"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "currentVer": {
+                                "S": "2018.2.1.6509"
+                            },
+                            "lastVerified": {
+                                "S": "2019-07-19T02:33:39.0000000-05:00"
+                            },
+                            "type": {
+                                "S": "GameService"
+                            },
+                            "newVer": {
+                                "S": "2018.2.5.7321"
+                            },
+                            "status": {
+                                "S": "OUT OF DATE"
+                            },
+                            "name": {
+                                "S": "C1_E13"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "currentVer": {
+                                "S": "2018.2.1.6509"
+                            },
+                            "lastVerified": {
+                                "S": "2019-07-19T02:33:39.0000000-05:00"
+                            },
+                            "type": {
+                                "S": "GeneralService"
+                            },
+                            "newVer": {
+                                "S": "2018.2.5.7321"
+                            },
+                            "status": {
+                                "S": "OUT OF DATE"
+                            },
+                            "name": {
+                                "S": "GeneralService"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "currentVer": {
+                                "S": "0.0.0.0"
+                            },
+                            "lastVerified": {
+                                "S": "2019-07-19T02:33:39.0000000-05:00"
+                            },
+                            "type": {
+                                "S": "Interface"
+                            },
+                            "newVer": {
+                                "S": "2018.2.5.7321"
+                            },
+                            "status": {
+                                "S": "NOT APPLICABLE"
+                            },
+                            "name": {
+                                "S": "Interface"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "currentVer": {
+                                "S": "2018.2.1.6509"
+                            },
+                            "lastVerified": {
+                                "S": "2019-07-19T02:33:39.0000000-05:00"
+                            },
+                            "type": {
+                                "S": "KioskApp"
+                            },
+                            "newVer": {
+                                "S": "2018.2.5.7321"
+                            },
+                            "status": {
+                                "S": "OUT OF DATE"
+                            },
+                            "name": {
+                                "S": "KIOSK1"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "currentVer": {
+                                "S": "2018.2.1.6509"
+                            },
+                            "lastVerified": {
+                                "S": "2019-07-19T02:33:39.0000000-05:00"
+                            },
+                            "type": {
+                                "S": "KioskService"
+                            },
+                            "newVer": {
+                                "S": "2018.2.5.7321"
+                            },
+                            "status": {
+                                "S": "OUT OF DATE"
+                            },
+                            "name": {
+                                "S": "KioskService"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "currentVer": {
+                                "S": "2018.2.1.6509"
+                            },
+                            "lastVerified": {
+                                "S": "2019-07-19T02:33:39.0000000-05:00"
+                            },
+                            "type": {
+                                "S": "Manager"
+                            },
+                            "newVer": {
+                                "S": "2018.2.5.7321"
+                            },
+                            "status": {
+                                "S": "OUT OF DATE"
+                            },
+                            "name": {
+                                "S": "REM1"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "currentVer": {
+                                "S": "2018.2.1.6509"
+                            },
+                            "lastVerified": {
+                                "S": "2019-07-19T02:33:39.0000000-05:00"
+                            },
+                            "type": {
+                                "S": "Manager"
+                            },
+                            "newVer": {
+                                "S": "2018.2.5.7321"
+                            },
+                            "status": {
+                                "S": "OUT OF DATE"
+                            },
+                            "name": {
+                                "S": "SERVER"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "currentVer": {
+                                "S": "2018.2.1.6509"
+                            },
+                            "lastVerified": {
+                                "S": "2019-07-19T02:33:39.0000000-05:00"
+                            },
+                            "type": {
+                                "S": "PaymentGateway"
+                            },
+                            "newVer": {
+                                "S": "2018.2.5.7321"
+                            },
+                            "status": {
+                                "S": "OUT OF DATE"
+                            },
+                            "name": {
+                                "S": "KIOSK1"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "currentVer": {
+                                "S": "2018.2.1.6509"
+                            },
+                            "lastVerified": {
+                                "S": "2019-07-19T02:33:39.0000000-05:00"
+                            },
+                            "type": {
+                                "S": "PaymentGateway"
+                            },
+                            "newVer": {
+                                "S": "2018.2.5.7321"
+                            },
+                            "status": {
+                                "S": "OUT OF DATE"
+                            },
+                            "name": {
+                                "S": "POS1"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "currentVer": {
+                                "S": "2018.2.1.6509"
+                            },
+                            "lastVerified": {
+                                "S": "2019-07-19T02:33:39.0000000-05:00"
+                            },
+                            "type": {
+                                "S": "POS"
+                            },
+                            "newVer": {
+                                "S": "2018.2.5.7321"
+                            },
+                            "status": {
+                                "S": "OUT OF DATE"
+                            },
+                            "name": {
+                                "S": "POS1"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "currentVer": {
+                                "S": "2018.2.1.6509"
+                            },
+                            "lastVerified": {
+                                "S": "2019-07-19T02:33:39.0000000-05:00"
+                            },
+                            "type": {
+                                "S": "RedemptionPro"
+                            },
+                            "newVer": {
+                                "S": "2018.2.5.7321"
+                            },
+                            "status": {
+                                "S": "OUT OF DATE"
+                            },
+                            "name": {
+                                "S": "REDPRO1"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "currentVer": {
+                                "S": "2018.2.1.6509"
+                            },
+                            "lastVerified": {
+                                "S": "2019-07-19T02:33:39.0000000-05:00"
+                            },
+                            "type": {
+                                "S": "Reports"
+                            },
+                            "newVer": {
+                                "S": "2018.2.5.7321"
+                            },
+                            "status": {
+                                "S": "OUT OF DATE"
+                            },
+                            "name": {
+                                "S": "Reports"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "currentVer": {
+                                "S": "0.0.0.0"
+                            },
+                            "lastVerified": {
+                                "S": "2019-07-19T02:33:39.0000000-05:00"
+                            },
+                            "type": {
+                                "S": "SBSWizard"
+                            },
+                            "newVer": {
+                                "S": "2018.2.5.7321"
+                            },
+                            "status": {
+                                "S": "OUT OF DATE"
+                            },
+                            "name": {
+                                "S": "SBSWizard"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "currentVer": {
+                                "S": "0.0.0.0"
+                            },
+                            "lastVerified": {
+                                "S": "2019-07-19T02:33:39.0000000-05:00"
+                            },
+                            "type": {
+                                "S": "StoreCardService"
+                            },
+                            "newVer": {
+                                "S": "2018.2.5.7321"
+                            },
+                            "status": {
+                                "S": "NOT APPLICABLE"
+                            },
+                            "name": {
+                                "S": "StoreCardService"
+                            }
+                        }
+                    }
+                ]
+            },
+            "smartTouchStatus": {
+                "S": "UP TO DATE"
+            },
+            "currentVer": {
+                "S": "Multiple versions detected"
+            },
+            "desktopStatus": {
+                "S": "OUT OF DATE"
+            },
+            "operator": {
+                "S": "1202"
+            },
+            "newVer": {
+                "S": "2018.2.5.7321"
+            },
+            "channel": {
+                "S": "Stable"
+            },
+            "locationName": {
+                "S": "Back Shop Pizza"
+            },
+            "status": {
+                "S": "OUT OF DATE"
+            },
+            "location": {
+                "S": "1202101"
+            }
+        }
+		}
+		}
+		]
+		}

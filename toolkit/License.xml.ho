@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LicenseFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <License>
+    <Expiry>2020-10-19</Expiry>
+    <License_Id>0</License_Id>
+    <Location_Id xsi:nil="true" />
+    <POS_Applications_Limit xsi:nil="true" />
+    <Manager_Applications_Limit xsi:nil="true" />
+    <Game_Server_Applications_Limit xsi:nil="true" />
+    <Kiosk_Applications_Limit xsi:nil="true" />
+    <Redemption_Pro_Applications_Limit xsi:nil="true" />
+    <EmPos_Applications_Limit>15</EmPos_Applications_Limit>
+    <RtaDashboard_Applications_Limit xsi:nil="true" />
+    <EmPos_Authorization_Information>
+      <Consumer_Key>WwfPCWz7O6+PQsRrAoqZ+48pArx094fE2gQofYDFSw1rgBQ7blj1wdlIXczcqbjqp+yo886ef0rFcPE+/mMMVg==</Consumer_Key>
+      <Consumer_Secret>kvV+6Ke9n3U0HZaQ3hkacmkBo8PVwzQFoGntnPouQK57I0v1lL/ABW0VTOr2sZAzWgRkNxcYzaoucHJldwouxg==</Consumer_Secret>
+      <Last_Modified_Date>2013-12-03T18:21:16.0000000</Last_Modified_Date>
+    </EmPos_Authorization_Information>
+    <EmbedOnline_Application_Enabled>true</EmbedOnline_Application_Enabled>
+    <EmbedOnline_Authorization_Information>
+      <Consumer_Key>rQN5ConztU588OhWLDJyKQdTaTWa1XUoolJp5ya/hK11Q3jPfrDsPmA0Qw31LbowAptA8ufaL0WxFua0TVV/BA==</Consumer_Key>
+      <Consumer_Secret>o6CXpNHuF3T97lsvqDtKv72nb0ezuLTWgAsoFv5ffuSazdQmeeBnv63ygOq4BQyWL2Ft3BlsaX4ki+Zgxi/AFA==</Consumer_Secret>
+      <Last_Modified_Date>2013-12-04T11:39:29.0000000</Last_Modified_Date>
+    </EmbedOnline_Authorization_Information>
+    <Head_Office>true</Head_Office>
+    <Swiper_Limit xsi:nil="true" />
+    <API_Authorization_Information />
+    <Active_Periods />
+  </License>
+  <Signature>k9pCjbb9bj2/HJE8zZfnr5MAu4K0t5EBD9LE1buqwbECNfFTDkUGsENHjkFKAVX6gh8ibK2kjWG2qVK99kXW9sZbaDR1SfA3eESo2jVKPRZLjWQGC6G36yOKxzg4Lmi6mrUc25510XzMQCP6Kj0EgeMwH9Hksq/a/773YoXuq7b1JrL/5uTzE6TxWvBlyixZLJe2R/+783ZDzJ0pD1401k/M/Gc8vRD7UcqO2wF1pV20l8Nx9QkcPmMI4wwdQ55ssU2PLZZ2YH0JoLko28WtzNitlinqLichXrlI5WIXgJMIwbiLEx8avMPcxepQrDf4y6EfMTwjt0L8raeI9oRA2w==</Signature>
+  <SignatureV2>vWix9oAVkGxmIUfei9FUURJUfY7eoA1d9MhOYZ5qDO+ixufpSoFrSM+LHIgavcpgLJaxwPBxHFF5ZJNC0Zar9bncMeAgjylkIV9Vozk+Y3FjJls39HYd1yi+SHWUtwiQFMW9CY34WXuw5mxJjNcRWHtikybjdGTZJ5ipXSMzHwFbLjHW9VMXh786TILb+7c9nHFMQ6qR7D6n/oxPeu1w9oU+7Iya13agnXJ30I0eg1LHJZGq+bwD26bFEMpXpUUpMsXxtGt0vO90Y3+W4tJV3p+R20OIWm4Unlu/V71RsIauCJd2Ewi/Ir1atsstFOoT2uak2+LJYJJbnJfGNdeq9A==</SignatureV2>
+</LicenseFile>

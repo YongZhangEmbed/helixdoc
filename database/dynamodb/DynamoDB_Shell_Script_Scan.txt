@@ -1,0 +1,9 @@
+var params = {
+    TableName: 'toolkit-updateStatus-local',
+    Select: 'ALL_ATTRIBUTES', // optional (ALL_ATTRIBUTES | ALL_PROJECTED_ATTRIBUTES |    
+    ReturnConsumedCapacity: 'NONE', // optional (NONE | TOTAL | INDEXES)
+};
+dynamodb.scan(params, function(err, data) {
+    if (err) ppJson(err); // an error occurred
+    else ppJson(data); // successful response
+});

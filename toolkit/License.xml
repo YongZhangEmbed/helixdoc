@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LicenseFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <License>
+    <Expiry>2020-12-31</Expiry>
+    <License_Id>0</License_Id>
+    <Location_Id xsi:nil="true" />
+    <POS_Applications_Limit>6</POS_Applications_Limit>
+    <Manager_Applications_Limit>200</Manager_Applications_Limit>
+    <Game_Server_Applications_Limit>500</Game_Server_Applications_Limit>
+    <Kiosk_Applications_Limit>100</Kiosk_Applications_Limit>
+    <Redemption_Pro_Applications_Limit>200</Redemption_Pro_Applications_Limit>
+    <EmPos_Applications_Limit xsi:nil="true" />
+    <RtaDashboard_Applications_Limit>0</RtaDashboard_Applications_Limit>
+    <EmbedOnline_Application_Enabled>true</EmbedOnline_Application_Enabled>
+    <EmbedOnline_Authorization_Information>
+      <Consumer_Key>bC9lkIRO5pxbW0fp9Pr9NjGQ6wY0Dp0DJ1WPOEr/NYteBMDQntUFdw7Mi/evmqNUkUKiPDP9qfE7ZRKO3ruIXg==</Consumer_Key>
+      <Consumer_Secret>SL+KS3lwjIgW5GKmjn4Qg0Mb9QIYoF620pwCC0RDMoFpDLfLads5pd9E7YvPCw1yOycBuDIqAqemXSfMI3eyKw==</Consumer_Secret>
+      <Last_Modified_Date>2016-02-22T17:37:21.0000000</Last_Modified_Date>
+    </EmbedOnline_Authorization_Information>
+    <AWS_Authorization_Information>
+      <Consumer_Key>eo8b6wXQZvzk6ok1016/+GzAhOwQ51UhlbWKu1K5+g2jESRbti3xnGc0IdK9bh7Mj1nJ2lhfqXE2EDfMKXS0mCt4Lqsc8gYFTE1PU5UB4Tnj0MqjX1WvO9H6Xhxew67TkN/Acya/Zq3ZeG0+rM8FTBEmFcWsYPnFj+1LIVYFLKc+CZDLBmn8ouOZwZGPFtn/75y9oHrb6u1Hpzi7tzhDVUrr79e8ZuH+m0jiGa+DhlbsOq5Erbs9FGFgbSpnEGWD2eLVAekih/pLTcedm62A30p/fzLAjiXQd38eCr2oTDCnzhjPDRSYsmXf1u6n7dQmtoYr3MMnv1jOtoDcZ90/wQ==</Consumer_Key>
+      <Consumer_Secret>zh4lB3RGTfVQUdl4zvnM053jpR+jfQAJykjoo/HQUaiNg82MbPzBgGlO9u9MlHQAMW2rvmCRoCk3zruTFl4IQPgsYqugCZ7Vm44LWFWF2s8JvTnM7YSdhFLDAy5ba/WvM6A2aGEvedzIGoFmAXrudHbbunAhd8zKPvSYdG+86PgLyAetv4DTZ9F5C8us0XYr5uJMrbj1dkOWh+uDhze3r9dBJRVWvQeKGNKJjNKFUZP/KtD0HgxJbQ/ApUxCpbwZihNZl91ODM1Ch/phEe87gRJsXs89iBPMP0l/1sXb7fU9xMkAkcrr7ZxM9djIgfuhuGlTiOJMkeP+cKGHICLXaQ==</Consumer_Secret>
+    </AWS_Authorization_Information>
+    <Head_Office>false</Head_Office>
+    <Swiper_Limit>160</Swiper_Limit>
+    <API_Authorization_Information />
+    <Active_Periods>
+      <Active_Period Start="2017-10-11" End="2019-10-31" Comments="你好 世界" />
+      <Active_Period Start="2020-12-24" End="2020-12-31" Comments="" />
+    </Active_Periods>
+  </License>
+  <Signature>JHOy6E1WGNKu6bBaby1x+5d2mdCPcE8vVC+ifypVHAimPx2M+71zhogwKiowoXx+oeW11eUqHxoPOBLf7J0PJjgBGJGOfh2roqQvMaimqbfud5mz8WFDOixJlL67lp5N1nuk34tH94+BcG4U+X3RCK0jngePqLr1LFDa8AFJ2pZKT8DUw1r2tMyG/Au7FLQxgiEIUrwkOhSZy5ooPLgjKBsWLeT5KmLpkOy1Y+V1l+lWMqj/E+ajAMvfd4SS80VeeCMRRBunm32S8x7IFVqSWwOozAf3T8MGhyb/lWBDK5FFqcvPLQzHhDmyVIGMGsKZ6gVKunYSNttVkYRydSkCWw==</Signature>
+  <SignatureV2>wV0moN8Bu3CfxK6ngv58rDE2w0KCgmyKdaveK8DTBk711swxrowbTul+Bf2k9IEO130jd/ytKfCFRF3qTh2gtjz8R+P85NXnBAfxxNT+cuqh6rtGxpDWsHYVtInDOy847CvynJO6XZGh876Vi87r0B/VO193CpcNHKG2zp13gn1LfyskvrJXlLfgojOqWH9ad7pA1CKRWAK6GCVm6scb6N0GWsuitvsgeVkoPT+4+bnteUvdZexl4RgNhlZIy/d3KG2PGlEOFCVDJSuDnV1n1w7lkbctOHU8JX6yGywBD0zcYhrd+WPK9OMWT4hsLO8TQqqFouwOwcndDvKjYX6sMw==</SignatureV2>
+</LicenseFile>
