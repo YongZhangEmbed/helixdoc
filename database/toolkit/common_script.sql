@@ -8,8 +8,13 @@ select * from Cards where Card_Barcode in('9900738890')
 select * from cloud_cards
 
 
-select * from System_Properties where descriptor like '%Global Cards Type%'
+select * from System_Properties where descriptor like '%Global Cards%'
 --delete from System_Properties where descriptor like '%Global Cards Type%'
 
 select * from Cloud_Notifications where Received_At>'2020-02-10T03:10:18Z' order by Received_At desc
 --update Cloud_Notifications set  processed=0 where sequence in (16432)
+
+select * from Guest_Balance_Uploads
+
+
+
