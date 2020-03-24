@@ -1,0 +1,3 @@
+Data Source=(Local); Initial Catalog=ECS7;Integrated security=sspi
+Application=ECSGenSvc
+Language=en
